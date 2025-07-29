@@ -1,6 +1,6 @@
 # 🤟 ASL-NN-Project: Deep Learning for American Sign Language Recognition
 
-Welcome to our graduation project repository, where we tackle **American Sign Language (ASL) recognition** using powerful deep learning models. Our goal is to develop a robust neural network-based system to classify ASL hand signs accurately.
+Welcome to our  project repository, where we tackle **American Sign Language (ASL) recognition** using powerful deep learning models. Our goal is to develop a robust neural network-based system to classify ASL hand signs accurately.
 
 ---
 
