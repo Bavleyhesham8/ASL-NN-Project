@@ -1,7 +1,21 @@
 # 🤟 ASL-NN-Project: Deep Learning for American Sign Language Recognition
 
-Welcome to our  project repository, where we tackle **American Sign Language (ASL) recognition** using powerful deep learning models. Our goal is to develop a robust neural network-based system to classify ASL hand signs accurately.
+Welcome to our  project repository, where we tackle **American Sign Language (ASL) recognition** using powerful deep learning models. Our goal is to develop a robust 
+neural network-based system to classify ASL hand signs accurately.
 
+
+---
+
+##  Team Members
+
+This project was developed by undergraduate students in the **Artificial Intelligence Department**,  
+**Faculty of Computers and Artificial Intelligence, Benha University**:
+
+- **Ahmed Salem**
+- **Gamal Ali**
+- **Kirllos Henin**
+- **Mohamed Ramadan**
+- **Bavley Hesham**
 ---
 
 ## 📌 Project Overview
@@ -70,20 +84,6 @@ The project includes detailed visualizations:
 | DenseNet    | 99.88%      | Efficient gradient flow           |
 | MobileNet   | 98.8%      | Lightweight, mobile-friendly      |
 
-
-
----
-
-##  Team Members
-
-This project was developed by undergraduate students in the **Artificial Intelligence Department**,  
-**Faculty of Computers and Artificial Intelligence, Benha University**:
-
-- **Ahmed Salem**
-- **Gamal Ali**
-- **Kirllos Henin**
-- **Mohamed Ramadan**
-- **Bavley Hesham**
 
 ---
 
